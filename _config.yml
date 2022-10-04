@@ -108,9 +108,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Columbus, Ohio"
-  email            :
+  email            : "bseay40@gmail.com"
   links:
-    - label: "bseay40@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
