@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Brannon Seay"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/head_shot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "8+ year professional.\nPassionate about data."
   location         : "Columbus, Ohio"
   email            : "bseay40@gmail.com"
   links:
